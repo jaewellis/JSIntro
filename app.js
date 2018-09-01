@@ -23,3 +23,10 @@ console.log("4 + 5");
 
 //Outputs 45
 console.log("4" + "5");
+
+
+//Convert C to F
+
+let Input = 32;
+let Convert = Input * 9/5 +32;
+console.log("32 Degrees Celius is " + Convert + " Fahrenheit.");
